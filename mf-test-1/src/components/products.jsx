@@ -2,7 +2,7 @@ import { Button } from "my-react-lib";
 export const Products = () => {
   const list = [
     { name: "shirt", price: 6600 },
-    { name: "shoe", price: 4000 },
+    { name: "shoe", price: 566 },
   ];
 
   return (

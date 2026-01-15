@@ -1,0 +1,4 @@
+@import "tailwindcss";
+div h5 {
+  background-color: rgb(198, 162, 232);
+}
